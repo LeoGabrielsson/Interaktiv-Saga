@@ -16,7 +16,8 @@ export let storySegements = [
             
             As the Guardsmen approached the facility, the oppressive silence was shattered by the discordant roar of chittering and screeching.
             Unsure of how to proceed, they sent a prayer to the God-Emporor of Mankind asking what they should do.`,
-        "Options": [`Ready lasgun and proceed`, `Continue forward. It's problaly just a few muta-rats`],
+        "Options": [`Ready lasgun and proceed`, `Continue forward.
+        It's problaly just a few muta-rats`],
         "Buttons": 2,
         "Next": [2, 5]
     },
