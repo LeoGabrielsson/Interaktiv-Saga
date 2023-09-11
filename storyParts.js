@@ -40,7 +40,7 @@ export let storySegements = [
     {
         "Text": `The swarm of tyranids reacted to the smell of new prey as Leo and his brothers in arms turned the corner. They all roard in unison, a roar that easily could be understod by any living being as "The hund is on!" and swiftly started running towards Leo and his comrades. In response to this, Leo and his comrades turned tail ran away with all their might from the tyranid swarm.
         Unfortunately for the 718tg Regiment, cowardice was not allowed in the Imperium of Man. Every regiment's commissar have been trained and ordered to shoot fleeing and/or deserting troops. The commissar shouting of bravery in the face of death was almost drowned out by the sounds of his laspistol as he fired round after round of shots into the fleeing guardsmen.
-        Only a few shots was fired before the commisar was devoured by the many maws of the swarm. But only a few shots was all that was required to end the last men of the 718th Regiment. And only a few and thus the story of Leo came to and end. Shot by his own commisar, the story of Leo and the 718 Regiment ends`,
+        Only a few shots was fired before the commisar was devoured by the many maws of the swarm. But only a few shots was all that was required to end the last men of the 718th Regiment. And one of those few shots blasted into Leo's body leaving him to die from lack of blood. Shot by his own commisar, the story of Leo and the 718 Regiment ends`,
     },
     {
         "Text": `As the guardsmen pushed through the darkness, trying not to mind the ever increasing loudness from the presumed to be muta-rats. As Leo and his brothers turnd a corner they saw to to their horrific suprise the source of the chittering.
