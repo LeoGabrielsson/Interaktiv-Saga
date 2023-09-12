@@ -39,7 +39,7 @@ export let storySegements = [
         The legend of the 718 say that they are still fighting to this day in wait of support from the Imperium.`
     },
     {
-        "Text": `The swarm of tyranids reacted to the smell of new prey as Leo and his brothers in arms turned the corner. They all roard in unison, a roar that easily could be understod by any living being as "The hund is on!" and swiftly started running towards Leo and his comrades. In response to this, Leo and his comrades turned tail ran away with all their might from the tyranid swarm.
+        "Text": `The swarm of tyranids reacted to the smell of new prey as Leo and his brothers in arms turned the corner. They all roard in unison, a roar that easily could be understod by any living being as "The hunt is on!" and swiftly started running towards Leo and his comrades. In response to this, Leo and his comrades turned tail ran away with all their might from the tyranid swarm.
         Unfortunately for the 718tg Regiment, cowardice was not allowed in the Imperium of Man. Every regiment's commissar have been trained and ordered to shoot fleeing and/or deserting troops. The commissar shouting of bravery in the face of death was almost drowned out by the sounds of his laspistol as he fired round after round of shots into the fleeing guardsmen.
         Only a few shots was fired before the commisar was devoured by the many maws of the swarm. But only a few shots was all that was required to end the last men of the 718th Regiment. And one of those few shots blasted into Leo's body leaving him to die from lack of blood. Shot by his own commisar, the story of Leo and the 718 Regiment ends`,
     },
@@ -48,10 +48,8 @@ export let storySegements = [
         
         It was the ravenous alien swarm that consumed entire worlds, the Tyranids that had descended upon Tarsis IV. The monstrous creatures were a grotesque amalgamation of insectoid and reptilian features, with razor-sharp talons and gaping maws filled with rows of serrated teeth. Leo's stomach churned at the sight, for he had heard tales of the Tyranids but had never faced them in battle.
         
-        The swarm of tyranids reacted to the smell of new prey as Leo and his brothers in arms turned the corner. They ceased their feeding on what seemed to be a mountain of red flesh as they all fell silent. Then, they all roared in unison, a roar that easily could be understod by any living organism as "The hund is on!" and swiftly started running towards Leo and his comrades.
+        The swarm of tyranids reacted to the smell of new prey as Leo and his brothers in arms turned the corner. They ceased their feeding on what seemed to be a mountain of red flesh as they all fell silent. Then, they all roared in unison, a roar that easily could be understod by any living organism as "The hunt is on!" and swiftly started running towards Leo and his comrades.
         
         His commisar shouted with a strict and slightly panicked voice "MEN! READY LASGUNS, FIX BAYONETS AND OPEN FIRE! IN THE NAME OF THE EMPOROR WE WILL ERADICATE THE FILTH ON THIS PLANET AND RECLAME IT FOR THE THRONE!". Leo started to panic as he fumbled to try and ready his lasgun, the swarm approaching ever faster. A onesided massacre ensued. Roaring lasfire clashing against tyranid screeching. Leo and his regiment was quicly overwhelmed by the mass of Tyranid bodies that slammed into them.
         And so the story of Leo and the 718 Regiment ends, ravenously feasted upon by the Tyranids.`,
-        "Options": [`Open fire`,],
-        "Buttons": 0,
     }]
