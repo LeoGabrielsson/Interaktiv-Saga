@@ -7,8 +7,10 @@ export function site(element) {
   const storyText = element.querySelector('#story')
   const backButton = element.querySelector('#backButton')
   let currentEvent = 0
+  let secretEnding = 1 + Math.floor(Math.random() * 10);
   storyText.innerHTML = storySegements[currentEvent].Text
   buttonMaker(storySegements[currentEvent].Buttons)
+  console.log(secretEnding)
 
 
   //EventListener for the button representing choice 1
@@ -54,18 +56,35 @@ export function site(element) {
     B2.innerHTML = ""
   }
 
- //Creates the button called "Back to Start" and adds an EventListener to it
+  //Creates the button called "Back to Start" and adds an EventListener to it
   function runItBack() {
     let makeButton = document.createElement('button')
     let buttonText = document.createTextNode("Back to Start")
     backButton.appendChild(makeButton)
     makeButton.appendChild(buttonText)
     backButton.addEventListener('click', (e) => {
-      currentEvent = 0
-      storyText.innerHTML = storySegements[currentEvent].Text
-      resetAllButtons()
-      buttonMaker(storySegements[currentEvent].Buttons)
+      //Should the current event in the story be that Leo has reached the distress beacon there is a 10% chance that the secret ending will trigger upon pressing the button
+      if (currentEvent = 3 && secretEnding == 10) {
+        currentEvent = 8
+        storyText.innerHTML = storySegements[currentEvent].Text
+        resetAllButtons()
+        //makes the "runItBack()" function again but without the chance for the secret ending
+        let makeButton = document.createElement('button')
+        let buttonText = document.createTextNode("Back to Start")
+        backButton.appendChild(makeButton)
+        makeButton.appendChild(buttonText)
+        backButton.addEventListener('click', (e) => {
+          currentEvent = 0
+          storyText.innerHTML = storySegements[currentEvent].Text
+          resetAllButtons()
+          buttonMaker(storySegements[currentEvent].Buttons)
+        })
+      } else {
+        currentEvent = 0
+        storyText.innerHTML = storySegements[currentEvent].Text
+        resetAllButtons()
+        buttonMaker(storySegements[currentEvent].Buttons)
+      }
     })
   }
 }
-

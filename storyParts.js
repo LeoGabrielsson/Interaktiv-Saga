@@ -52,4 +52,12 @@ export let storySegements = [
         
         His commisar shouted with a strict and slightly panicked voice "MEN! READY LASGUNS, FIX BAYONETS AND OPEN FIRE! IN THE NAME OF THE EMPOROR WE WILL ERADICATE THE FILTH ON THIS PLANET AND RECLAME IT FOR THE THRONE!". Leo started to panic as he fumbled to try and ready his lasgun, the swarm approaching ever faster. A onesided massacre ensued. Roaring lasfire clashing against tyranid screeching. Leo and his regiment was quicly overwhelmed by the mass of Tyranid bodies that slammed into them.
         And so the story of Leo and the 718 Regiment ends, ravenously feasted upon by the Tyranids.`,
+    },{},{},{
+        "Text": `Just when it seemed that all hope was lost, the sky above Tarsis IV blazed with the fiery descent of drop pods. The reinforcements had arrived, and with them came the thunderous roar of Adeptus Astartes, the Emperor's Space Marines. These superhuman warriors, clad in power armor and armed with devastating weaponry, fell upon the Tyranid horde like avenging angels.
+
+        Leo and his regiment watched in awe as the Space Marines cut a bloody path through the Tyranids, their bolters and chainswords tearing through the xenos with ruthless efficiency. The tide of battle turned, and the Tyranids were driven back, their chittering cries of defeat filling the air.
+        
+        As the last of the Tyranids were exterminated, the Space Marines turned to Leo and his regiment. Their leader, a stoic figure in ornate armor, approached Leo and nodded in acknowledgment. The Guardsman saluted, his heart filled with gratitude for the timely arrival of the Emperor's finest.
+        
+        The battle on Tarsis IV had been won, but Leo knew that the war against the Tyranids would continue. He and his regiment would return to the front lines, ready to face whatever horrors the galaxy threw at them.`
     }]
