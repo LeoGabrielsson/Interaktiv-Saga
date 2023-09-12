@@ -10,7 +10,6 @@ export function site(element) {
   let secretEnding = 1 + Math.floor(Math.random() * 10);
   storyText.innerHTML = storySegements[currentEvent].Text
   buttonMaker(storySegements[currentEvent].Buttons)
-  console.log(secretEnding)
 
 
   //EventListener for the button representing choice 1
